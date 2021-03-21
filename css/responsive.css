@@ -1,0 +1,139 @@
+@media (min-width: 1200px) {
+  .pt-1-lg {
+    padding-top: 8.33333333%;
+  }
+  .pt-2-lg {
+    padding-top: 16.66666666%;
+  }
+  .pt-3-lg {
+    padding-top: 24.99999999%;
+  }
+  .pb-1-lg {
+    padding-bottom: 8.33333333%;
+  }
+  .pb-2-lg {
+    padding-bottom: 16.66666666%;
+  }
+  .pb-3-lg {
+    padding-bottom: 24.99999999%;
+  }
+  .lg-hide {
+    display: none;
+  }
+  .product-detail-header {
+    padding-bottom: 20px;
+  }
+  .right-vertical-line {
+    border-right: 2px solid #eef3f9;
+  }
+}
+
+@media (min-width: 750px) and (max-width:1024px){
+  .md-hide {
+    display: none;
+  }
+  ul.navbar-nav {
+    float: left!important;
+  }
+  .widget img {
+    width: 45%;
+  }
+  .plan-map img {
+    margin-left: 160px;
+  }
+  .main_menu_area .header-social-right span.contact_us {
+    margin-left: 10px;
+    text-align: left;
+  }
+  .pt-1-mg {
+    padding-top: 8.33333333%;
+  }
+  .pt-2-mg {
+    padding-top: 16.66666666%;
+  }
+  .pt-3-mg {
+    padding-top: 24.99999999%;
+  }
+  .pb-1-mg {
+    padding-bottom: 8.33333333%;
+  }
+  .pb-2-mg {
+    padding-bottom: 16.66666666%;
+  }
+  .pb-3-mg {
+    padding-bottom: 24.99999999%;
+  }
+  .pl-1-md {
+    padding-left: 8.333333333%;
+  }
+  .pr-1-md {
+    padding-right: 8.333333333%;
+  }
+  .right-vertical-line {
+    border-right: 2px solid #eef3f9;
+  }
+  .contact-form {
+    padding-top: 15px;
+  }
+}
+@media (max-width: 640px) {
+  .pt-1-sm {
+    padding-top: 8.33333333%;
+  }
+  .pt-2-sm {
+    padding-top: 16.66666666%;
+  }
+  .pt-3-sm {
+    padding-top: 24.99999999%;
+  }
+  .pb-1-sm {
+    padding-bottom: 8.33333333%;
+  }
+  .pb-2-sm {
+    padding-bottom: 16.66666666%;
+  }
+  .pb-3-sm {
+    padding-bottom: 24.99999999%;
+  }
+  .w-80-sm {
+    width: 80%;
+  }
+  .container-fluid {
+    padding-left: 15px;
+    padding-right: 15px;
+  }
+  .mobile-hide {
+    display: none;
+  }
+  .sm-menu-hide {
+    display: none;
+  }
+  ul.navbar-nav {
+    float: left;
+  }
+  .header-social-right {
+    display: none;
+  }
+  .product-detail-header,
+  .product-detail-image,
+  .product-detail-desc {
+    width: 100%;
+    padding: 20px;
+  }
+  .product_details {
+    padding-top: 25px;
+    padding-bottom: 25px;
+  }
+  .contact-map {
+    height: 300px;
+  }
+  .companyDetails-title h2, .how-to-work-title h2, .how-to-work-title h1{
+    font-size: 38px;
+  }
+  .product-detail-header h1 {
+    font-family: "Bentham", serif;
+  }
+  .plan-map img {
+    margin-left: 80px;
+  }
+}
