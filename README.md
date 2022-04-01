@@ -23,3 +23,7 @@ The managers insist that the following requirements must be adhered to:
 5. Generate a separate page providing the opening and business hours. The details are found in the shop_hours.txt file.
 
 6. Text description for each item is not provided. You can provide your own ‘dummy’ text (i.e. lorem ipsum) to demonstrate the functionality of your web page design.
+
+## Site Demo 🖥
+
+https://flying-hobbies.herokuapp.com/
