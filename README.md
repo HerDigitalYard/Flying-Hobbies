@@ -26,4 +26,4 @@ The managers insist that the following requirements must be adhered to:
 
 ## Site Demo 🖥
 
-https://flying-hobbies.herokuapp.com/
+https://esha98.github.io/Flying-Hobbies/
